@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CriticalAttack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CriticalAttack_jar</output-path>
+    <root id="archive" name="CriticalAttack.jar">
+      <element id="module-output" name="CriticalAttack" />
+    </root>
+  </artifact>
+</component>
